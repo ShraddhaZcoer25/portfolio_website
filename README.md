@@ -45,18 +45,18 @@ I am a B.Tech Student (AI &amp; DS) at **Zeal College of Engineering and Researc
 ## 📁 PROJECTS
 **🧾Project 1: Intelligent Customer Churn Prediction System**
 
-**Description:**
+-**Description:**
 This project predicts whether a customer is likely to churn based on historical behavior and demographic data. It helps businesses take proactive retention actions and reduce revenue loss. The model uses data preprocessing, feature engineering, and machine learning classification techniques. Tools like Python, Pandas, Scikit-learn, and SQL were used for analysis and model building.
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, SQL, Jupyter Notebook
-**Link:** https://github.com/yourusername/churn-prediction
+-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, SQL, Jupyter Notebook
+-**Link:** https://github.com/yourusername/churn-prediction
 
 
 **📈Project 2: AI-Powered Resume Screening System**
 
-**Description:**
+-**Description:**
 A machine-learning–based system that screens resumes and ranks candidates based on job requirements. It uses NLP techniques to extract skills, compare them with job descriptions, and compute a suitability score. The system automates the hiring pipeline and reduces recruiter workload.
-**Tech Stack:** Python, NLP (spaCy), Scikit-learn, Streamlit
-**Link:** https://github.com/yourusername/ai-resume-screener
+-**Tech Stack:** Python, NLP (spaCy), Scikit-learn, Streamlit
+-**Link:** https://github.com/yourusername/ai-resume-screener
 
 ---
 
